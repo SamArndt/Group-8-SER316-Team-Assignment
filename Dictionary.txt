@@ -1,26 +1,28 @@
-Raesfeld
-Flughafen
-Berlin
-Bratwurst
-Hauptstrasse
-Brot
-Klimaanlage
-Rammstein
-Porsche
-BMW
-Biergarten
-Ratskeller
-Dirndel 
-Lederhose
-Schloss
-wettbewerbsfaehig
-Mehlhase
-Gebaeck
-Baeckerei
-Hund Doener
-Apfelkuchen 
-Schloss
-Eltz
+German              English
+================================
+Raesfeld          - Raesfeld
+Flughafen         - Airport
+Berlin            - Berlin
+Bratwurst         - Sausage
+Hauptstrasse      - Main street
+Brot              - Bread
+Klimaanlage       - Air conditioner
+Rammstein         - Rammstein
+Porsche           - Porsche
+BMW               - BMW
+Biergarten        - Beer garden
+Ratskeller        - Town hall cellar pub
+Dirndel           - traditional dress
+Lederhose         - Leather pants
+Schloss           - Castle
+wettbewerbsfaehig - Competitive
+Mehlhase          - Flour bunny
+Gebaeck           - Pastry
+Baeckerei         - Bakery
+Hund Doener       - Dog kebab
+Apfelkuchen       - Apple cake
+Schloss           - Castle
+Eltz              - Eltz
 
 ------USED-----:
 Berlin
